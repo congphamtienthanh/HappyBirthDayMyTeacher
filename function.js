@@ -1,4 +1,4 @@
-alert("ĐÂY LÀ MỘT MÓN QUÀ NHỎ MÌNH DÀNH CHO PHƯỢNG");
+alert("ĐÂY LÀ MÓN QUÀ NHỎ,EM GỬI CÔ NHÂN NGÀY SINH NHẬT!");
 window.addEventListener('click', function() {
     var audio = document.getElementById("HBD");
     audio.play();
